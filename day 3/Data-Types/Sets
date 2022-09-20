@@ -1,0 +1,5 @@
+#sets Example
+
+x= {"Canab", "Caruus", "Canbo"}
+mySets=set(x)
+print(type(x))
