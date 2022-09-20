@@ -1,0 +1,5 @@
+#Tuple Examples
+
+
+mytuple = ("apple", "banana", "cherry")
+print(mytuple)
