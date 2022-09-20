@@ -1,0 +1,5 @@
+# Integer Example
+
+x= 10
+myInteger = int(x)
+print(type(myInteger))
