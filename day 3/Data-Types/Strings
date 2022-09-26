@@ -1,7 +1,0 @@
-# Examples of String
-import string
-
-
-x="axmed"
-myString = str(x)
-print(type(myString))

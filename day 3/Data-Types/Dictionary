@@ -1,6 +1,0 @@
-#Dictionary Example
-
-form={"Name:", "Sadio", "Age:", 30}
-x= dict(Name="Sadio", Age=30)
-myDic=dict(x)
-print(type(x))
