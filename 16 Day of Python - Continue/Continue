@@ -1,0 +1,18 @@
+ #Continue inside while-loop
+ 
+ i = 0
+while i <= 10:    
+    if i == 7:
+        i += 1
+        continue  
+    print("The Number is  :" , i)
+    i += 1
+    
+#Continue inside nested-loop
+    
+    for i in range(4):
+    for j in range(4):          
+        if j==2:    
+            continue
+        print("The number is ",i,j);
+        
