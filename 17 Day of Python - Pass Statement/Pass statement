@@ -1,0 +1,24 @@
+def my_func():
+    print('pass inside function')
+    pass
+my_func()
+
+#pass statement inside the class
+classMy_Class:
+print("Inside My_Class")    
+pass
+
+#pass statement inside the loop
+test = "Guru"
+for i in test: 
+    if i == 'r': 
+        print('Pass executed') 
+        pass
+    print(i)
+
+#pass statement inside if-loop
+
+a=1
+if a==1:
+    print('pass executed')
+    pass
