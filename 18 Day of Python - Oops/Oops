@@ -1,0 +1,4 @@
+def method1 (self):
+   print "Guru99"
+def method2 (self,someString): 
+   print "Software Testing:" + someString
